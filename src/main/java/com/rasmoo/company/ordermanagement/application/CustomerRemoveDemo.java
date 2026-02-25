@@ -29,6 +29,7 @@ public class CustomerRemoveDemo {
         } finally {
             em.close();
             emf.close();
+
         }
 
     }
