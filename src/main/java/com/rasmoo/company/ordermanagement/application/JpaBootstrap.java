@@ -1,4 +1,4 @@
-package com.rasmoo.company.application;
+package com.rasmoo.company.ordermanagement.application;
 
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.Persistence;
